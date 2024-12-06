@@ -1,0 +1,3 @@
+Embora JavaScript não tenha suporte nativo a classes abstratas como outras linguagens (Java, C#),
+é possível simular classes abstratas utilizando classes base e métodos lançando erros. Isso ajuda a 
+garantir que subclasses implementem certos métodos.

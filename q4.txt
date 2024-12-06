@@ -1,0 +1,3 @@
+JavaScript não possui suporte nativo a interfaces como em Java ou C#, 
+mas o uso de interfaces pode ser simulado com contratos explícitos usando docstrings, 
+validações ou padrões de design como duck typing.
